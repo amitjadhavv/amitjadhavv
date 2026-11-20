@@ -17,8 +17,8 @@ I build AI systems end to end: data pipelines, model training, retrieval and LLM
 
 #### Toolbox
 
-**AI / ML:** PyTorch · TensorFlow · MONAI · scikit-learn · RAG · LLM agents · vector databases (ChromaDB) · AWS Bedrock
-**Data:** Python · SQL · ETL · Alteryx · Kafka · MongoDB · Elasticsearch · Power BI · BigQuery · dbt
-**Engineering:** FastAPI · Django · Docker · AWS · Git · Linux / HPC (Slurm)
+- **AI / ML:** PyTorch · TensorFlow · MONAI · scikit-learn · RAG · LLM agents · vector databases (ChromaDB) · AWS Bedrock
+- **Data:** Python · SQL · ETL · Alteryx · Kafka · MongoDB · Elasticsearch · Power BI · BigQuery · dbt
+- **Engineering:** FastAPI · Django · Docker · AWS · Git · Linux / HPC (Slurm)
 
 📫 [LinkedIn](https://www.linkedin.com/in/amit-jadhav24a0261) · [amitjadhavv02@gmail.com](mailto:amitjadhavv02@gmail.com) · [Portfolio](https://amitjadhavv.github.io)
